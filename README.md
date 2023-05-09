@@ -1,6 +1,7 @@
 # _{repo-name}_
 
-#### _{brief description}_
+_{brief description}_
+
 From The Odin Project's [curriculum](https://www.theodinproject.com/)
 
 _{[**Live preview**] (https://cadcock15.github.io/repo-name)}_
@@ -26,7 +27,10 @@ _{[**Live preview**] (https://cadcock15.github.io/repo-name)}_
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+## Project Notes
+
+### Goals
+
+### Outcome
 
 Copyright (c) 2023 Christopher Adcock

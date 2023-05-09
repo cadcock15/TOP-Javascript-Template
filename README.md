@@ -24,7 +24,7 @@ _{brief description}_
 * Clone this repository to your computer
 * Navigate into repository
 * Open index.html in your web browser
-* 
+
 ## Known Bugs
 
 ## Project Notes

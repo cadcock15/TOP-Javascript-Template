@@ -25,12 +25,12 @@ _{[**Live preview**] (https://cadcock15.github.io/repo-name)}_
 * Navigate into repository
 * Open index.html in your web browser
 
-## Known Bugs
-
 ## Project Notes
 
 ### Goals
 
 ### Outcome
+
+## Known Bugs
 
 Copyright (c) 2023 Christopher Adcock

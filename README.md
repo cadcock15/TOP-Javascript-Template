@@ -3,7 +3,7 @@
 #### _{brief description}_
 From The Odin Project's [curriculum](https://www.theodinproject.com/)
 
-[**Live preview**] (https://cadcock15.github.io/repo-name)
+_{[**Live preview**] (https://cadcock15.github.io/repo-name)}_
 
 #### By **Christopher Adcock**
 * GitHub: [cadcock15](https://github.com/cadcock15)
